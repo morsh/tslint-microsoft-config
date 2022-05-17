@@ -1,0 +1,16 @@
+{
+  "name": "@msft/tslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tslint.json",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tslint --project ./tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "tslint": ">= 6"
+  }
+}
